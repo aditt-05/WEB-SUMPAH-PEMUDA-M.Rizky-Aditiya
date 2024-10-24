@@ -1,0 +1,15 @@
+body{
+    background-color: blue;
+}
+
+h1{
+    background-color: blue;
+    font-style: italic;
+}
+h2{
+    background-color: blue;
+    font-size: small;
+}
+p{
+    font: 1em sans-serif;
+}
